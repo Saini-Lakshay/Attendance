@@ -1,0 +1,6 @@
+[
+    { "subj":"APC" , "attended":0 , "delivered":0 },
+    { "subj":"CSA" , "attended":0 , "delivered":0 },
+    { "subj":"ADBMS" , "attended":0 , "delivered":0 },
+    { "subj":"OS" , "attended":0 , "delivered":0 }
+]
